@@ -1,6 +1,6 @@
 # hackerdosyalaridemo
 Sadece Windows 10 Destekliyor
-python 3 sürümü indirilmiş olması ve cmd de açılabilmesi lazım 
+python güncel 3 sürümü indirilmiş olması ve cmd de açılabilmesi lazım 
 1.ye tıklayıp gerekli programları indirebileceksiniz sonra 
 0. da kullanım koşulu mevcut 
 2. de hack toolsler mevcut 
