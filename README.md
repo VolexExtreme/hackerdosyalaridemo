@@ -1,6 +1,7 @@
 # hackerdosyalaridemo
 Sadece Windows 10 Destekliyor
-python güncel 3 sürümü indirilmiş olması ve cmd de açılabilmesi lazım 
+python güncel 3 sürümü indirilmiş olması ve cmd de açılabilmesi lazım aksi taktirde güncel olmazsa utf-8 hatası alırsınız
+ve de programı açamazsınız
 1.ye tıklayıp gerekli programları indirebileceksiniz sonra 
 0. da kullanım koşulu mevcut 
 2. de hack toolsler mevcut 
