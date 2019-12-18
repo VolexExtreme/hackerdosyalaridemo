@@ -15,7 +15,7 @@ python hackerdosyalaridemo.pyo yazıyoruz
 program açılınca ilk yapılacak şey 1 yazmak enter tuşuna basmak
 systeminize göre x32 - x64 yazınz gerekli programları kurulum gelecek kurunuz
 0 yazıp enter tuşuna basarak kullanım koşulunu size sunmuş olacağız
-2 yazıp enter tuşuna basarak istedeğiniz aracı indirebileceksiniz
+2 yazıp enter tuşuna basarak istedeğiniz aracı indirebileceksiniz C/araçlar içinde olacak araçlar :)
 
 Tüm hakkları saklıdır. 
 Orginal sürümüne gelmek isteyen:
